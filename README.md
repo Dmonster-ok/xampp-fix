@@ -9,7 +9,7 @@
   - Save the file
 ### config.inc.php
   - Go to config.inc.php
-  - Find `host`
+  - Find `$cfg['Servers'][$i]['host']`
   - Replace the line with the line below
   - `$cfg['Servers'][$i]['host'] = 'localhost:3336';`
   - Save the file
@@ -19,3 +19,5 @@
   - Replace the line with the line below
   - `port=3336`
   - Save the file
+
+> Continue Coding...
