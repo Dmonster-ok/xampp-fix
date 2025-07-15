@@ -20,4 +20,4 @@
   - `port=3336`
   - Save the file
 
-> # `[localhost:8090/phpmyadmin](http://localhost:8090/phpmyadmin)`
+> # `http://localhost:8090/phpmyadmin`
